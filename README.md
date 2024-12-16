@@ -48,6 +48,15 @@ The dataset used for this analysis was collected **three months ago** and includ
 - **Python**: Data preparation and pipeline scripting (if needed).  
 
 ---
+## Dashboard Photo
+
+
+---
+## Video
+
+https://github.com/user-attachments/assets/ce3caec1-a0ab-4182-8480-07ff0be9c5fa
+
+---
 ## **Detailed Insights from Dashboard**
 
 ### 1. **Overall Insights**
