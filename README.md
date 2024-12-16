@@ -50,6 +50,8 @@ The dataset used for this analysis was collected **three months ago** and includ
 ---
 ## Dashboard Photo
 
+![ELK](https://github.com/user-attachments/assets/15991fd9-ba3d-4bfc-b4fc-175c9957a629)
+
 
 ---
 ## Video
